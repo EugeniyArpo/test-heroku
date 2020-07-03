@@ -1,2 +1,2 @@
 <?php
-var_dump(pwd);
+echo $_SERVER['DOCUMENT_ROOT'];
