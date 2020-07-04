@@ -6,7 +6,9 @@ if (isset($_SESSION['success'])) {
     echo $_SESSION['success'] . '<br />' . '<br />' . '<br />';
     echo 'publicKey - ' . $_SESSION['publicKey'] . '<br />' . '<br />';
     echo 'privateKey - ' . $_SESSION['privateKey'] . '<br />' . '<br />';
-    echo 'Please save the keys. My account does not work yet!!!';
+    echo 'Please save the keys. My account does not work yet!!!' . '<br />' . '<br />' . '<br />';
+	echo 'Module list - '
+	
     ?>
     <!DOCTYPE html>
     <html lang="en">
