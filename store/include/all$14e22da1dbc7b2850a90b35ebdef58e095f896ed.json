@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://arpo-repo.herokuapp.com/dist/arpo/cart-link/arpo-cart-link-571003fa5381a42234dca76dfbc35c1ccabf213a-zip-b66a6f.zip",
+                    "url": "https://arpo-repo.herokuapp.com/store/dist/arpo/cart-link/arpo-cart-link-571003fa5381a42234dca76dfbc35c1ccabf213a-zip-b66a6f.zip",
                     "reference": "571003fa5381a42234dca76dfbc35c1ccabf213a",
                     "shasum": "f75b8efc6ae34dabc2e323a4c14e995eda6d4608"
                 },
@@ -51,7 +51,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://arpo-repo.herokuapp.com/dist/arpo/cart-link/arpo-cart-link-bbd81b73975356b53bbd97178de24c00e9b41ee9-zip-ccaa90.zip",
+                    "url": "https://arpo-repo.herokuapp.com/store/dist/arpo/cart-link/arpo-cart-link-bbd81b73975356b53bbd97178de24c00e9b41ee9-zip-ccaa90.zip",
                     "reference": "bbd81b73975356b53bbd97178de24c00e9b41ee9",
                     "shasum": "b75b8239a8ddfa32fcca284e8218ad66adea3474"
                 },
@@ -130,7 +130,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://arpo-repo.herokuapp.com/dist/arpo/custom-fields/arpo-custom-fields-ac318f399d3b5b9d5d6fb502f29b8efc64636d68-zip-f82bb4.zip",
+                    "url": "https://arpo-repo.herokuapp.com/store/dist/arpo/custom-fields/arpo-custom-fields-ac318f399d3b5b9d5d6fb502f29b8efc64636d68-zip-f82bb4.zip",
                     "reference": "ac318f399d3b5b9d5d6fb502f29b8efc64636d68",
                     "shasum": "97d44a4a1d3e418339fe96049b12223dcda1641e"
                 },
@@ -209,7 +209,7 @@
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://arpo-repo.herokuapp.com/dist/arpo/report/arpo-report-0fbada673d02c7a6e2e9622089cb65a8d9dd5837-zip-0917b9.zip",
+                    "url": "https://arpo-repo.herokuapp.com/store/dist/arpo/report/arpo-report-0fbada673d02c7a6e2e9622089cb65a8d9dd5837-zip-0917b9.zip",
                     "reference": "0fbada673d02c7a6e2e9622089cb65a8d9dd5837",
                     "shasum": "076fdd740f78a779bcd9fe6abd89b1637a5fef4a"
                 },
